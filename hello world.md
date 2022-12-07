@@ -35,3 +35,5 @@
 1. создание ветки  git branch new_branch
 2. переход в новую ветку git checkout new_branch
 3. Альтернатива создание и переход сразу в новую ветку: git checkout -b new_branch
+
+Что-то новое...
